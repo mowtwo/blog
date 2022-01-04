@@ -6,7 +6,7 @@ tag: svelte,vercel,personal page,site,web development
 author: Mowtwo
 ---
 
-# svelte使用体验
+# 个人主站搭建
 经过差不多三周的开发，我的个人主站终于首次对外开放，目前开发进度80%
 访问地址：[https://mowtwo.com](https://mowtwo.com)
 
