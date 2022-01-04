@@ -16,7 +16,5 @@ TypeScript 是现代前端开发者必须掌握强化技能之一
 
 ### TypeScript 的作者
 
-<img src="https://raw.githubusercontent.com/mowtwo/pic-go/main/markdown/image-20211211105542506.png" alt="image-20211211105542506" style="zoom:50%;" />
-
 > Anders Hejlsberg，计算机科学家，现在是微软.Net 的首席架构师，同时也是 Delphi（基于 Pascal 的可视化 GUI 开发工具），C#之父。
 
