@@ -18,5 +18,5 @@ export default {
       `}</style>
     </small>
   ),
-  navs:[]
+  readMore: '查看更多→'
 }
