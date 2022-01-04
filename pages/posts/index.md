@@ -1,7 +1,7 @@
 ---
 type: posts
-title: Posts
-date: 2021-03-18
+title: 博客
+date: 2022-01-04
 ---
 
-# Posts
+# 博客
