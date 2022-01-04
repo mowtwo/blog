@@ -2,7 +2,7 @@
 title: TypeScript(1)
 date: 2021/12/16 12:21:00
 description: TypeScript是现代前端开发者必须掌握强化技能之一
-tag: Typescript
+tag: TypeScript
 author: Mowtwo
 ---
 
