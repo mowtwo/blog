@@ -1,6 +1,6 @@
 ---
 title: 初次搭建博客
-date: 2022/1/4
+date: 2022/1/4 10:00:00
 description: 尝试使用在vercel上使用Nextra搭建博客
 tag: nextjs,blog,vercel,nextra
 author: Mowtwo

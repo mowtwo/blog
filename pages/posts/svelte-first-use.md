@@ -1,6 +1,6 @@
 ---
 title: 个人主站搭建
-date: 2022/1/4
+date: 2022/1/4 12:00:00
 description: 在搭建个人主站时，第一次使用了svelte跟vercel，在经过三个星期的折腾后，我终于让主站发布了第一个测试版本
 tag: svelte,vercel,personal page,site,web development
 author: Mowtwo
