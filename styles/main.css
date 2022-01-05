@@ -90,6 +90,6 @@ img.next-image {
   text-decoration: underline;
 }
 
-pre {
-  background-color: #eee;
+article pre {
+  background-color: #f7f7f7 !important;
 }
