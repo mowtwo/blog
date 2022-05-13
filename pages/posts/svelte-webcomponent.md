@@ -1,5 +1,5 @@
 ---
-title: 个人主站搭建
+title: 关于Svelte开发WebComponent的一个踩坑过程
 date: 2022/5/13 14:00:00
 description: 使用Svelte开发WebComponent中遇到的各种问题
 tag: svelte,WebComponent
